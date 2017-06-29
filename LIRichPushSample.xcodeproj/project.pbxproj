@@ -48,6 +48,7 @@
 		3DADD3811EF1777600AC6BD8 /* NotifSample.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DADD3801EF1777600AC6BD8 /* NotifSample.m */; };
 		3DD5A0861F02A789002DF116 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0146E9901E7FE630006238AF /* Assets.xcassets */; };
 		3DD5A0871F02A789002DF116 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0146E9901E7FE630006238AF /* Assets.xcassets */; };
+		8A8F3B37418D28595723ADAA /* Pods_LIRichPushSample.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 21E112F5E63F0BDCC567CF18 /* Pods_LIRichPushSample.framework */; };
 		A0BDA3244EC041A8C62C838A /* Pods_myContentExtension.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AA310BA64E12CCE5DE9FE8B9 /* Pods_myContentExtension.framework */; };
 		CAFE8D8C2570BF969DF1747F /* Pods_LicomServiceExtension.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 63A18949B5DA55B67678CEF4 /* Pods_LicomServiceExtension.framework */; };
 /* End PBXBuildFile section */
@@ -152,6 +153,7 @@
 			files = (
 				01D185F51E9CC2EE00405BC4 /* MapKit.framework in Frameworks */,
 				00BEDC8CC8EA43DE0FADAFD7 /* Pods_LIRichPushSample.framework in Frameworks */,
+				8A8F3B37418D28595723ADAA /* Pods_LIRichPushSample.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
