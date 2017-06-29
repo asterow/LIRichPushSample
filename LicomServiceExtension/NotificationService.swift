@@ -85,7 +85,7 @@ class NotificationService: UNNotificationServiceExtension {
     }
     
     private func scrapDataWithURL(url: URL) -> Void {
-        guard let contentHandler = self.contentHandler, let bestAttemptContent = self.bestAttemptContent else {
+        guard let bestAttemptContent = self.bestAttemptContent else {
             return
         }
         print("---> scrapDataWithURL: \(url)")
